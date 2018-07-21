@@ -1,0 +1,19 @@
+{
+  "name": "honey-cell",
+  "version": "1.0.0",
+  "description": "module to filter content from AWS service events and push them to honeycomb observability platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/delprofundo/honeycell.git"
+  },
+  "author": "delProfundo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/delprofundo/honeycell/issues"
+  },
+  "homepage": "https://github.com/delprofundo/honeycell#readme"
+}
